@@ -2,12 +2,12 @@
   display: inline-block;
   float: none;
   vertical-align: top;
-  color: white
+  color: white;
 }
 
 .navbar-nav li {
 	margin: 10px;
-
+	color: white;
 }
 
 img {
