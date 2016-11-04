@@ -1,0 +1,19 @@
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+  color: white
+}
+
+.navbar-nav li {
+	margin: 10px;
+
+}
+
+img {
+	max-height: 75px
+}
+
+#skills p {
+	text-align: center;
+}
